@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>netology.homework</groupId>
-    <artifactId>ContinuousIntegrationProcess1</artifactId>
+    <artifactId>ContinuousIntegrationProcess</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
